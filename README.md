@@ -372,7 +372,244 @@ Uma prefeitura de uma determinada região omprou uma tabela vendida pela vivo qu
 - cidade onde a pessoa morava / cidade onde a pessoa visitava esporadicamente
 - classe social
 
-Com base nessas 4 informação usando com outras informaçoes de banco de dados o 'the intercept' chegou a titulares dessa tabela da vivo.
+Com base nessas 4 informação cruzando com outras informaçoes de banco de dados o 'the intercept' chegou a titulares(clientes da vivo) dessa tabela da vivo.
+
+Essa tabela(que a vivo venda) estava disponivel no site da secretaria de turismo do municipio como se fosse dados anonimos.E foi comprada para analisar o fluxo de turistas no municipio.
+
+**DADOS PSEUDONIMIZADO**: O dado perde a possibilidade de associação, direta ou indireta, a um indíviduo, senão pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro.
+
+ O agente de tratamento coletou o seguintes dados:
+ 
+ **DADOS PSEUDONIMIZADOS**> 
+ 
+ **BANCO DADOS Nº1**
+ - GENERO: FEMININO
+ - NACIONALIDADE: BRASILEIRA
+ - PROFISSÂO : ADVOGADA
+ 
+**BANCO DADOS Nº2**
+- NOME: GISELE SILVA
+ - OAB/SP: 430 650
+
+Eles são armazenado em bancos separado em outro ambiente eles não são eliminado mas se mantem associado ao ID com possibilidade de recuperacao.
+
+**Art 13**: **a realização de estudos em saúde pública**, os orgãos de pequisa poderçao ter acesso a bases de dados pessoais, (...) e mantidos em ambiente controlado e seguro, **conforme práticas de segurança**(...) que incluam, sempre que possível, a anonimização ou pseudonimização dos dados(...).
+
+**#4.Atores da Lei**
+
+**Objetivo**
+
+1.Titular;
+2.Agende de Tratamento; e
+3. ANPD e o encarregado de dados.
+
+**1. Titular** >
+
+**TITULAR:** Pessoa natural a quem se fererem os dados pessoais que são objeto de tratamento.
+.é o nucleo da LGDP, são os direitos dele que a lei visa proteger.
+.A tutela dos direitos existente na LGPD se inicia com o feto.
+.Portanto, a identificação no ultrassom, peso, tamanho, sexo, dentre outros dados relacionados a ele, são protegidos pela LGPD.
+.Não se aplica aos dados pessoais de pessoas ja falecida.
+
+**2.Agentes de Tratamento; e** >
+
+**CONTROLADOR**: Pessoa natural ou juridica, de direito público ou privado, **a quem competem as decisões refetente ao tratamento dos dados pessoais.**
+.É ele que decide como os dados sera feito com os dados que esta sendo tratado.
+.É o que tem maior responsabilidade pela legislação.
+
+**DEVERES E RESPONSABILIDADES**
+.deve cumprir os direitos dos titulares;
+.deve transmitir as instruções para tratamento de dados ao operador;
+.será responsabilizado civil e administrativamente em caso de violação da LGPD;
+.deve prestar informações à ANPD.
+
+**OPERADOR**: Pessoa natural ou juridica, de direito público ou privado, **que realiza o tratamento dos dados pessoais em nome do controlador**
+.Ele trabalha em observancia ao que esta sendo determinado pelo controlador.
+
+**DEVERES E RESPONSABILIDADES**
+.responde solidariamente pelos danos causados pelo tratamento, quando descumprir as instruções licita do controlador;
+.será responsabilizado civil e administrativamente em caso de violação da LGPD;
+.deve prestar informações à ANPD.
+
+
+**Poder de dicisão** >
+. Quem decide o que vai ser feito é o **Controlador**, o **Operador** ele obedece e trata os dados de acordo com o que foi estabelecido pelo **Controlador**.
+
+**Desnecessidade de que todas as decisões sejam tomadas pelo controlador.**
+.nem todas as decisões precisa ser tomada pelo **Controlador**, decisões que não são essenciais elas podem ser tomadas pelo **Operador** .
+
+
+**Definição dos elementos decisórios que se caracterizam como "principais" ou "essenciais"(naturea dos dados, finalidade e duração do tratamento).**
+
+**COLABORADOR DO AGENTE DE TRATAMENTO**: atua com suborddinação (em representação do agente)
+.ele não é o operador!!!
+x
+**OPERADOR**: atua de acordo com os interesses e finalidades definidos pelo controlador
+
+Exemplo:
+
+Gerente do RH não é o **Operador** ele coleta os dados dos colaboradores como representate da empresa. O **Operador** seria a **Contabilidade Terceirizada**.
+
+**Autoridade Nacional de Proteção de Dados**
+**Guia Orientativo para Definições de Dados Pessoais e do Encarregado.**
+
+fonte: https://www.gov.br/anpd/pt-br/assuntos/noticias/inclusao-de-arquivos-para-link-nas-noticias/2021-05-27-guia-agentes-de-tratamento_final.pdf
+
+As vezes em algumas situação a empresa vai ser 'Controlador' ou  'Operador':
+
+Exemplo: 
+
+**Contabilidade Terceirizada** tratando os dados da folha de pagamento de uma determinada empresa ele é **Operador**, mas quando ele estiver tratando os dados dos funcionários da sua propria empresa e será o **Controlador** essa função não é statica, em determinadas situação ela varia dependendo da finalidade e do tratatamento dos dados que estão sendo coletados.
+
+**Na prática**
+
+Exemplo 1:
+
+.Uma médica, profissional liberal, armazena os prontuários e os demais dados pessoais de seus pacientes no computadr de seu consultório. 
+
+A médica, pessoa natural, é a **Controladora** dos dados pessoais
+
+Exemplo 2:
+
+Uma médica é empregada de um hospital, constituído sob a forma de associação civil sem fins lucrativos.
+
+Nessa condição, atua como principal representante do hospital junto a um serviço de armazenamento de dados de pacientes em nuvem, inclusive assinando os contratos correspondentes.
+
+O hospital, isto é, a associação civil, pessoa juridica de direito privado, é o **Controlador** na hipótese.
+
+A médica, por atuar sob o poder diretivo da organização, **não se caracteriza como agente de tratamento.**
+
+Exemplo 3:
+
+A empresa XRAY tem sob sua responabilidade os dados de seus clientes e repassa para uma empresa terceirizada de call center, ZULU, que recebe as informações.
+
+A empresa XRAY é a **Controladora** e o call center terceirizado ZULU, o **Operador**, que executará o tratamento de dados dos clientes a mando da empresa XRAY.
+
+Caso realize o tratamento de dados fora do que foi orientado pelo **Controlador**, a empresa ZULU poderá ser responsabilizada.
+
+**3.ANPD e Encarregado de dados
+
+**ANPD:** Orgão responsável por zelar, implementar e fiscalizar o cumprimento da LGPD
+
+.É órgão da administração publica federal, integrante da Presidencia da Republica;
+.Por estar atrelada a Presidencia da Republica não é independente;
+.Não reconhecimento pela UE(União Europeia) como pais de nivel regulatorio adequado;
+.Tem natureza juridica transióoria e poder ser transformada pelo Poder Executivo em orgão da administração pública indireta.
+.Zelar pela proteção de dados pessoais;
+.Ficalizar e aplicar sanções(Administrativa) no caso de descumprimento da lei;
+.AValiar países que proporcione grau de proteção adequado;
+.Relacionar as hipoteses de dispensa da necessidade de nomeação de Encarregado;etc.
+
+**ENCARREGADO DE DADOS(DPO):** Pessoa indica pelo **Controlador** e o **Operador** para atuar como canal de comunicação entre o **Controlador**, os **titulares dos dados** e a **ANPD**.
+
+.Tambem é chamado de **DPO**;
+.É obrigatório para o **Controlador**. Não há exigência para o **Operador**;
+.Pode ser terceirizado, pessoa física ou juridica, ou até mesmo um comitê;
+.É possível a nomeação de **1 Encarregado(DPO)** para corporações com diversas filiais;
+.Aceitar reclamações e comunicações dos **titulares**;
+.Prestar esclarecmento e adotar providências;
+.Receber comunicações da **ANPD** e tomar providências;
+.Orientar os colaboradores e os contratados a respeito das práticas de proteção de dados.
+
+**#5. Conceitos Relevantes:**
+
+**Obetivos**
+
+1.Privacidade x Proteção de dados;
+2.Autodeterminação Informativa;
+3.Transferências Internacionais;
+4. Outros conceitos
+
+**1.Privacidade x Proteção de dados;**
+
+É diferenciar **'Privacidade'** da **'Proteção de dados'** são duas coisas totalmente diferentes que complementam mas que não pode ser confudida.
+
+**PRIVACIDADE:**
+.É uma liberdade negativa, ou seja, que não há interferência externa;
+> dentro dessa liberadede temos duas divisão 
+    > O **1.espaço público** > onde qualquer um expoe o que quer para todo em público.
+    > O **2.espaço privado** > onde o individuo escolhe quem pode ter acesso o que pode ser exposto.
+    
+.Há uma dicotomia entre o público e o privado;
+    > Como falamo de 'Proteção de dados' não tem distição do que é público ou privado!
+
+. Não é porque um dado é público ou publicamente acessível que ele nao deve ser ptotegido.
+
+**CASO IBGE/2020**
+
+Em virtude da pandemia não tinha condições de fazer a pesquisa de domicilio.
+
+**MP 954/2020**
+
+.Obrigava empresas de telefonia a dispponibilizar ao IBGE a relação de nomes, números de telefones e os respectivos endereços dos seus clientes.
+.A MP foi considerada inconstitucional pela Ministra Rosa Weber e supensa a sua eficácia.
+.Na decisão foi reconhecido o carater autônomo do direito á proteção de dados, enquadrando-o como um novo direito fundamental.
+.Até então o STF vinha decidindo casos de proteção de dados, com a lógica da privacidade.
+.Neste caso, a Constituição Federal tutelaria apenas os dados sigilosos.
+.**PEC 17/19** - acrescenta o inciso **XII-A, ao art.5º**, e o **inciso XXX, ao art.22**, da CF para **incluir a proteção de dados pessoais entre os direitos fundamentais do cidadão** e fixar a competêcia privativa da União para legislar sobre a matéria.
+    > .Ja foi aprovada pela Câmara dos Deptador e esta em tramitação no Senado Federal.
+
+
+**Autodeterminação informativa***
+
+Era da informacao onde os dados pessoais soa coletados de forma abusiva ode esta um massiva manipulacao de dados pessoas e não temos o controle. 
+
+Esse conceito vai te ajudar e dar poder:
+
+.É uma dos fundamentos da LGPD
+.É o direito do titular, de conrole sobre os seus dados pessoais.
+.Vai além do nivel da esfera intima do cidadão. Os dado público devemos ter o controle de saber como eles estão sendo tratados.
+.Foi considerado o um direito fundamental autônomo, ao lado da proteção de dados.
+
+**Tranferencia Internacional**: Transferencia de dados pessoais para país estrangeiro ou organização internancional do qual o país seja membro.
+
+.Vivemos em um mundo globalizado, Não existe barreida fisica, Um dado ele transita de um pais para o outro sem o titular ter ciencia disso, e pode trazer um risco elevado para o titular.
+. O pais pelo qual o dado esta transferindo pode não ter um legislacao não seja consistente e causar dano ao titular o quao protegido naquele pais.
+. o grau de protecao do pais é muito superior ao da LGPD e pode trazer a empresa pode ter um prejuizo e ter que acar com outras medidas que sao exigidas  pelo outro pais para fazer aquele tratamento.
+. Não se deve confudir a transferencia de dados com trânsito de dados.
+.Um simples acesso á uma aplicação de internet não deve ser considerado uma transferencia internacional de dados, sob pena de banalizar a aplicação do conceito e transformar o regime juridico especial da transferencia internacional em geral.
+.O que define se esta havendo uma transfrencia de dados é o tratamento.
+.Temos que observar se o agente de tratamento tem a intenção de realizar o tratamento fora do país.
+
+**Na prática**
+
+.Voce trabalha na filia brasileira de uma empresa Uruguaia. 
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
