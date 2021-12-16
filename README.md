@@ -658,6 +658,180 @@ Mas isso não significa que seus **dados pessoais**, para além das conversas,
 
 5.COnceitos relevantes
 
+**#Conheça tudo sobre a LGPD - Elementos fundamentais**
+
+**Princípios da LGPD**
+
+**Objetivos**
+
+1. Introdução;
+2. Finalidade, adequação e necessidade;
+3. Livre-acesso, qualidade dos dados e transparência;
+4. Segurança, prevenção, não discriminação; e
+5. Responsabilização e prestação de contas. 
+
+#1. Introdução
+
+**RECAPITULANDO**
+
+ **“Art. 1º** Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado (...)”
+ 
+ E agora, não posso mais tratar dados pessoais?
+ 
+ **Pode, desde que...**
+ 
+ .Principios > Direitos dos titulares
+ .“Violar um princípio é muito mais grave que violar uma norma qualquer (...). Isto porque, ao ofendê-lo abatem-se as vigas que o sustêm e alui-se toda a estrutura nelas esforçada.“ 
+(BANDEIRA DE MELO, 2000)
+
+**“Art. 6º** As atividades de tratamento de dados pessoais deverão observar a **boa-fé** e os seguintes princípios: (...)”
+
+1.Finalidade
+2.Adequação
+3.Necessidade
+4.Livre-acesso
+5.Qualidade dos dados
+6.Transparencia
+7.Segurança
+8.Prevencao
+9.Não discriminação
+10.Responsabilição de contas
+
+**boa-fé**
+1.Sinceridade ou pureza de inteções
+2.Convicção de agir com justiça e lealdade.
+3.Estado de consciencia de quem acredita que age com lisura e de acordo com a lei
+
+É um dos princípios fundamentais do direito. Consiste na adoção da conduta correta e adequada no agir em sociedade.
+
+*Utilizamos cookies para entregar uma melhor experiencia durante a navegação. Ao continuar, você está de acordo com isso. Saiba mais em **Politica de privacidade.** **[ACEITAR]**
+
+**# 2 Finalidade, Adequação e Necessidade**
+
+**FINALIDADE**: Realização do tratamento para propósitos **legítimos, específicos, explícitos** e **informados ao titular**.
+
+**LEGITIMO:** Esta vinculado a legalidade, e nao se pode trata dados para propositos ilicitos.
+
+**ESPECIFICO:** Antes ou no momento em que ocorre a coleta dos dados, os objetivos devem ser precisos e totalmente identificados. Não pode ser uma finalidade futura.
+
+**EXPLICITO:** O motivo do tratamento deve ser claramente revelado, a fim de garantir que todos os envolvidos tenham o mesmo entendomento inequivoco da sua finalidade.
+
+**INFORMADO:** O titula tem o direito as informacoes sobre o tratamento dos seus dados, que deverao ser disponibilizados de forma clara, adequada e ofensiva.
+
+**.Impossibilidade de tratamento posterior de forma incompatível com a finalidade original.**
+
+.finalidade original
+.finalidade secundaria
+
+Expectativas razoáveis do titular quanto ao uso secundário;
+  > Natureza dos dados pessoais;
+    > Consequências para o titular; e 
+      > Existência  de garantias adequadas
+
+
+** Na pratica **
+
+.Coleta e processamento de dados pessoais para oferecer serviços vinculados a um app de condicionamento físico – A finalidade original será analisar dados pessoais para recomendar ao usuário uma rotina de exercícios personalizada
+
+.O processamento adicional de dados pessoais para identificar erros técnicos do app será considerado compatível, porque a melhoria da eficiência da aplicação está vinculada à finalidade original. Além disso, o fato de que a empresa pode melhorar as capacidades técnicas do app pode ser razoavelmente esperada pelos usuários.
+
+.Um profissional da área de saúde coleta dados pessoais para poder tratar a condição médica de seus pacientes. Compartilhar a lista de pacientes com uma empresa de seguros para que ofereça seus serviços  será considerado incompatível com a finalidade original para a qual os dados foram coletados.
+
+![image](https://user-images.githubusercontent.com/33209944/146435440-40783690-1920-46f0-9a51-f7b35d2d3397.png)
+
+
+**NECESSIDADE:** Limitação do tratamento ao mínimo necessário para a realização de suas finalidade, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades de tratamento.
+
+*“... a sua principal característica é a de ressaltar a limitação do tratamento ao mínimo necessário para se atingir a finalidade pretendida (Data Minimisation), mediante a avaliação de quais dados são realmente imprescindíveis (dados pertinentes e não excessivos)”.*
+
+. Dados em excesso são ativo tóxico para as empresas. 
+. Quando se acumula um número expressivo de dados, os riscos de incidente de segurança e de dano e exposição para os titulares são muito maiores.
+
+A finalidade pretendida pode ser alcançada de outro modo?
+  > Quais as espécies de dados pessoais são realmente essenciais ao tratamento?
+    > Qual o volume mínimo para o tratamento? 
+      > O tratamento é proporcional diante dos potenciais riscos aos direitos do titulares? 
+
+
+**Na prática**
+
+![image](https://user-images.githubusercontent.com/33209944/146435921-74a5a0fc-75da-4395-a589-7ff4bcbeb671.png)
+
+.Em 2017, a jornalista francesa Judith Duportail requisitou ao Tinder que lhe fosse fornecida toda a informação que detinha sobre si. Ela recebeu um dossier de 800 páginas com as seguintes informações:
+
+.Todas as mensagens que alguma vez trocou online com os seus “parceiros” de relacionamento (com data e localização de onde tinham sido enviadas); 
+Todos os “likes” que colocou no Facebook, links das suas fotografias no Instagram, perfis detalhados dos seus gostos e preferências “românticas” e  do tipo de “parceiros” que procurou ou com quem se envolveu, etc.
+
+
+**ADEQUAÇÃO:** Compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento.
+
+Momento adequado > Meio adequado > Finalidade Proposta
+
+**Na pratica**
+
+Se os batimentos cardíacos de alguém são coletados, por um relógio inteligente, e tratados, por uma empresa especializada em dar feedbacks ao usuário acerca da manutenção de uma vida saudável, desde que o titular seja informado previamente e dê o seu consentimento (por se tratar de dados sensíveis), o tratamento será considerado adequado.
+
+Caso tais dados sejam tratados para a formação de perfis para que outras empresas possam ofertar  produtos para insuficiência cardíaca, haverá uma descontextualização da finalidade informada ao titular e o tratamento não será considerado adequado.
+
+#3.Livre-acesso e Qualidade dos dados
+
+**LIVRE ACESSO:** Garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como, sobre a integralidade dos seus dados.
+
+.Finalidade específica do tratamento;
+.Forma e duração do tratamento, observados os segredos comercial e industrial; 
+.Identificação do controlador;
+.Informações de contato do controlador; 
+.Informações acerca do uso compartilhado de dados pelo controlador e a finalidade;
+.Responsabilidades dos agentes que realizarão o tratamento; e
+.Direitos do titular, com menção explícita aos direitos contidos no **art. 18 desta Lei.**
+
+**Ná pratica**
+
+Em 2017, a jornalista francesa Judith Duportail requisitou ao Tinder que lhe fosse fornecida toda a informação que detinha sobre si. A empresa demorou 6 meses para fornecer as informações.
+
+![image](https://user-images.githubusercontent.com/33209944/146436659-e240961f-0284-4e7e-b14f-9e721a8f56d1.png)
+
+![image](https://user-images.githubusercontent.com/33209944/146436688-9810c1d4-5305-4768-aa0e-6c950db0a30a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
 
 
 
