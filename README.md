@@ -269,7 +269,7 @@ Importante analisar o **contexto onde o dados** esta sendo utilizado!
 .**a qualquer tratamento** de dados pessoais
 .que **revele** dados pessoais sensíveis
 .e **que possa** causar dano ao titular,
-.ressalvando o disposto em legislação específica
+.ressalvando o disposto em específica
 
 importante avaliar se as **informações somada** levar a uma possivel situação que possa revelar dados  do titular e considerada dados sensiveis.
 
@@ -568,110 +568,98 @@ Esse conceito vai te ajudar e dar poder:
 . o grau de protecao do pais é muito superior ao da LGPD e pode trazer a empresa pode ter um prejuizo e ter que acar com outras medidas que sao exigidas  pelo outro pais para fazer aquele tratamento.
 . Não se deve confudir a transferencia de dados com trânsito de dados.
 .Um simples acesso á uma aplicação de internet não deve ser considerado uma transferencia internacional de dados, sob pena de banalizar a aplicação do conceito e transformar o regime juridico especial da transferencia internacional em geral.
-.O que define se esta havendo uma transfrencia de dados é o tratamento.
+.O que define se esta havendo uma transfrencia de dados **é o tratamento.**
 .Temos que observar se o agente de tratamento tem a intenção de realizar o tratamento fora do país.
 
 **Na prática**
 
-.Voce trabalha na filia brasileira de uma empresa Uruguaia. 
+.Você trabalha na **filial brasileira** de uma empresa Uruguaia. Todos os dados dos colaboradores são processado por um sistema de gestão que está no **data-center do Uruguai.(houve transferencia internacional de dados).
 
+.Uma empresa no **BR** contrata um serviço de CRM oferecido por uma empresa **Argentina, que mantém lá seu data-center.** **(houve transferencia internacional de dados).**
 
+.Uma **empresa do BR** contrata uma máquina virtual da Amazon AWS que está no **data-center dos EUA** para auxiliar no processamento de perfis de clientes. Os dados não serão armazenados lá, apenas será feito o processamento.**(houve transferencia internacional de dados).**
+        > processamento - é uma forma de tratamento.
 
+.Uma **empresa Brasileira** contrata um **empresa Indiana** para fazer a manutenção de seu banco de dados.**(houve transferencia internacional de dados).**
 
+.Contratação de provedor de computação em serviço de **nuvem estrangeiro.**.**(houve transferencia internacional de dados).**
 
+.Contratação de provedor de e-mail estrangeiro.**(houve transferencia internacional de dados).**
 
-
-
-
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                      
-                                      
+.Transferência de dados de uma **empresa do BR** para a representação da **ONU no BR.**.**(houve transferencia internacional de dados).**                    
                     
+importante: Se familiar com essas situações pois vamos ter que lidar com isso no nosso dia-a-dia, quando for contratar um serviço. Evitar a transferencia internacional para trazer uma maior segurança para o **titular dos dados**.
+
+**Outros conceitos e conclusão**
+
+**TRATAMENTO:** É toda operação realizada com dados pessoais, desde o momento em que ele entra no banco de dados, até a sua eliminação.
+
+A lei traz 20 situações em que tem tratamento de dados:
+
+1. Coleta
+2. Produção
+3. Receção
+4. Classificação
+5. Utilização
+6. Acesso
+7. Reprodução
+8. Transmissão
+9. Distribuição
+10. Processamento
+11. Arquivamento
+12. Armazenamento
+13. Eliminação
+14. Avaliação
+15. Controle
+16. Modificação
+17. Comunicação
+18. Transferencia
+19. Difusão
+20. Extração
+
+**Ciclo de vda dos Dados Pessoais:** Tudo o que acontece desde o momento em que ele é eliminado é tratamento de dados.
+
+.Coleta > .Processamento > .Analise > .Compartilhamento > .Armazenamento > .Reutilização > .Eliminação >
+
+Um simples armazenamento de dados no caderno e vai ser usado não para fins particulares, e sim **MAS ECONOMICO!** é tratamento de dados.
+
+**BANCO DE DADOS**: Conjunto estruturado de dados pessoais, estabelecido em um ou em varios locais, em suporte eletronico ou fisico.
+
+Exemplo lista de contato de clientes: 
+
+- No CADERNO EM PAPEL;
+- No WhatsApp;
+
+E considerado um **BANCO DE DADOS**.Está sujeito a LGPD.
+
+**USO COMPARTILHADO DE DADOS**: Comunicação, difusão, transferência internacional, interconexão de dados pessoais ou tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos **no cumprimento de suas competências legais**, ou entre esses e entes privados, reciprocamente, **com autorização específica**, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados
+
+.É muito comun no banco de dados seja ela em nuvem, e as vezes o   titular nao sabe disso que voce está compartilhado.
+
+Exemplo:
+
+Compra do WhatsApp pelo Facebook!
+
+Proteção por criptografia ponta-a-ponta - o conteúdo das mensagens e ligações fica seguro de acesso por terceiros.
+ 
+Mas isso não significa que seus **dados pessoais**, para além das conversas, não podem ser compartilhados.
+
+.Empresas do grupo Facebook tem acesso aos dados e não muito especifica
+
+**#Conclusão**
+
+1.Porque precisamos de uma lei de proteção de dados?
+
+2.Conhecendo a LGPD
+
+3.Dados pessoais
+
+4.Atores da Lei
+
+5.COnceitos relevantes
+
+
+
 
 
 
