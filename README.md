@@ -793,6 +793,360 @@ Em 2017, a jornalista francesa Judith Duportail requisitou ao Tinder que lhe fos
 
 ![image](https://user-images.githubusercontent.com/33209944/146436688-9810c1d4-5305-4768-aa0e-6c950db0a30a.png)
 
+**QUALIDADE DOS DADOS:** Garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento.
+
+# 4.Transparencia e Segurança:
+
+**TRANSPARÊNCIA:** Garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial.
+
+**Ná pratica**
+
+![image](https://user-images.githubusercontent.com/33209944/146437037-c089196a-d095-412e-a40a-b23b44648b8a.png)
+
+![image](https://user-images.githubusercontent.com/33209944/146437082-40ed1869-5938-4d2f-948f-9c58503fdff7.png)
+
+![image](https://user-images.githubusercontent.com/33209944/146437114-60d5d1d7-1250-4228-9342-4502532077c7.png)
+
+![image](https://user-images.githubusercontent.com/33209944/146437144-ddc8f0ab-1f29-4bc1-a5c5-6828940c001a.png)
+
+![image](https://user-images.githubusercontent.com/33209944/146437173-a1396480-4b5b-44c4-a7d3-58690b23261c.png)
+
+**SEGURANÇA:** Utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão.
+
+![image](https://user-images.githubusercontent.com/33209944/146437257-5c2e8805-f73c-49d2-b281-8a15f36b6652.png)
+
+A família ISO/IEC 27000 é composta de mais de 40 normas relacionadas a segurança da informação.
+
+![image](https://user-images.githubusercontent.com/33209944/146437304-b8b7c123-17c0-485a-a445-b2936b6eb1f6.png)
+
+# 5. Prevencao e não discriminação
+
+**PREVENÇÃO:** Adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais.
+
+**PRIVACY BY DESIGN (PbD):** 
+“a proteção de dados desde a concepção é uma abordagem que garante que você considere questões de privacidade e proteção de dados na fase de criação de qualquer sistema, serviço, produto ou processo e, em seguida, ao longo do ciclo de vida”
+
+**PRINCÍPIOS DO PbD**
+
+**Proativo e não reativo** – adoção de postura preventiva e medidas proativas e não reativas, de modo a evitar incidentes;
+
+**Privacidade como padrão** – a configuração padrão de qualquer sistema deve preservar a privacidade do usuário;
+
+**Segurança de ponta a ponta **– as medidas de segurança se estendem por todo o ciclo de vida dos dados. 
+
+**Visibilidade e transparência** – O titular deve ser capaz de obter informações claras quanto ao tratamento de seus dados pessoais e saber exatamente como estes serão utilizados pela empresa durante todo o processo.
+
+**Funcionalidade total** – soma positiva, não soma zero;
+
+**Respeito pela privacidade do usuário** -  os agentes de tratamento devem respeitar os interesses do titular, mantendo alto padrão de privacidade.
+
+**Privacidade incorporada ao design** – a privacidade deve ser incorporada à arquitetura do sistema e aos modelos de negócio.
+
+**NÃO DISCRIMINAÇÃO**: Impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos
+
+**Ná prática**
+
+![image](https://user-images.githubusercontent.com/33209944/146437884-d24c0f1a-81b7-48d7-be7e-a3f9ed7e1764.png)
+
+Utilização de sistema de reconhecimento facial, pelo governo da China para rastrear os uigures, uma minoria muçulmana.
+
+Integrantes desse grupo étnico são punidos por falar sua língua nativa, manter sua cultura ou praticar sua religião.
+
+![image](https://user-images.githubusercontent.com/33209944/146437869-2f42f815-3391-449c-b14f-5a97e3a096b3.png)
+
+Nos EUA, um software analisa a probabilidade de uma pessoa cometer um novo crime.
+Uma análise de mais de 10 mil casos, demonstrou que a previsão de alto risco de reincidência era mais comum para negros do que para brancos.
+
+![image](https://user-images.githubusercontent.com/33209944/146437934-8ea60dce-9d8c-4741-b824-b55e112fff97.png)
+
+# 6. Responsabilização e Prestação de Contas
+
+**RESPONSABILIZAÇÃO E PRESTAÇÃO DE CONTAS:**
+Demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
+
+.Derivado do princípio do “accountability” do RGPD;
+.“Demonstra a intenção da lei em aletar os controladores e os operadores de que eles são os responsáveis pelo fiel cumprimento das exigências legais (...)”.
+.“Os agentes deverão, durante todo o ciclo de vida de tratamento de dados sob sua responsabilidade, analisar a conformidade legal e implementar os procedimentos de proteção de dados pessoais de acordo com a sua própria ponderação de risco”
+
+![image](https://user-images.githubusercontent.com/33209944/146438120-283671fe-7312-40c5-b7ca-434e4f716342.png)
+
+Não basta simplesmente estar em conformidade com a LGPD, o controlador deve ser capaz de demonstrar essa sua aderência à lei. 
+
+1.Políticas corporativas
+2.Relatórios (DPIA e LIA)
+3.Registro da atividade de tratamento
+
+# AULA 2: BASES LEGAIS:
+
+**Objetivos**
+
+1. Introdução
+2. Consentimento
+3. Interesse legítimo
+4. Outras bases legais
+5. Tratamento de dados pessoais sensíveis;
+6. Tratamento de dados de criança e adolescente
+
+**1. Introdução**
+
+**Art. 7º** O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:
+
+1.Consentimento
+2.Cumprimento de obrigação legal ou regulatória, pelo controlador
+3.Execução de políticas públicas 
+4.Estudos por órgãos de pesquisa
+5.Execução de contrato
+6.Exercício regular de direitos
+7.Proteção da vida ou da incolumidade física
+8.Tutela da saúde
+9.Interesses legítimos
+10.Proteção ao crédito
+
+![image](https://user-images.githubusercontent.com/33209944/146438736-d54a06db-2379-4744-bc52-79b68ca339e2.png)
+
+Não há hierarquia entre as bases legais
+A base legal é escolhida de acordo com a finalidade da atividade de tratamento.
+**IMPORTANTE:** Usar apenas 1 base legal por finalidade
+
+**1.Consentimento**
+
+**CONSENTIMENTO:** Manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada;
+
+**REQUISITOS DO CONSENTIMENTO:**
+
+1.Livre,
+2.Informado, e
+3.Inequívoco.
+
+Se não forem cumpridos o 3 requisitos o consentimento não é válido.
+
+**1.Livre:** Os titulares devem ter escolha efetiva sobre quais tipo de dados serão tratados em cada operação. Se o titular se sentir coagido a dar o consentimento ou sofrer consequências negativas caso não consinta, então o consentimento não é válido.
+
+**MANIFESTAÇÃO LIVRE**
+
+1.Desequilíbrio de pode
+2.Condicionalidade
+3.Granularidade
+
+**1. DESEQUILÍBRIO DE PODER**
+.A noção de desequilíbrio entre o responsável pelo tratamento e o titular dos dados também deve ser tida em consideração.
+.Esse desequilíbrio pode ser observado nas relações de emprego e no tratamento de dados pelo poder público.
+
+**Na pratica**
+
+Uma equipe de filmagem pretende filmar determinada parte de um escritório. O empregador solicita o consentimento de todos os trabalhadores que se sentam nessa zona do escritório para serem filmados, uma vez que podem aparecer em segundo plano nas filmagens do vídeo. 
+
+**2.CONDICIONALIDADE**
+.O consentimento não é considerado válido, quando estiver agregado à aceitação de condições gerais; ou 
+.A execução de um contrato ou, a prestação de um serviço estiver associada a um pedido de consentimento para tratamento de dados pessoais que não sejam necessários para a execução desse contrato ou para a prestação desse serviço.
+
+**Na pratica**
+
+Um banco solicita aos clientes consentimento para que terceiros possam utilizar os seus dados de pagamento para fins de comercialização direta.
+Esta atividade de tratamento não é necessária para a execução do contrato nem para a prestação dos serviços bancários normais. 
+
+**3.GRANULARIDADE**
+.“Não se pode ter como válido o consentimento manifestado no formato “tudo ou nada”.
+."Nas situações em que tiver coleta de dados para diferentes finalidades, o titular dos dados deve ter a possibilidade de escolher, de uma a uma, a finalidade específica em relação a qual autoriza o tratamento de dados, sendo inválido se não houver essa opção”.
+
+**Na pratica**
+
+![image](https://user-images.githubusercontent.com/33209944/146440284-41de1c55-7b00-4a28-a852-6d5a0c4ef9af.png)
+
+![image](https://user-images.githubusercontent.com/33209944/146440305-3738bc38-ca6d-4ad8-b6fb-1ad3d1c8ee67.png)
+
+"Num mesmo pedido de consentimento, o controlador solicita aos clientes consentimento para utilizar os dados destes para lhes enviar publicidade via email e também para partilhar esses dados com outras empresas do seu grupo. 
+
+Este consentimento não é granular, uma vez que não separa os consentimentos para estas duas finalidades distintas; por conseguinte, o consentimento não é válido. 
+
+![image](https://user-images.githubusercontent.com/33209944/146440384-0c873996-306c-4dac-bf96-1b83e40eb8ed.png)
+
+Em 2017 o STJ decidiu ser abusiva a cláusula prevista em contrato de prestação de serviço de cartão de crédito que permite o banco compartilhar dados dos consumidores com outras instituições. A cláusula impediria o cliente de decidir o que a administradora de cartão pode fazer com seus dados pessoais.
+
+**INFORMADA:** “ele será atingido quando, antes da coleta dos dados pessoais, os titulares forem amplamente informados acerca do ciclo de vida do tratamento dos seus dados pessoais, o que guarda bastante correlação com o princípio da transparência”
+
+.Finalidades específicas do tratamento;
+.Forma e duração do tratamento;
+.Identificação e informações de contato do controlador;
+.Informações acerca do uso compartilhado de dados pelo controlador e finalidade;
+.Responsabilidades dos agentes de tratamento; e
+.Direitos do titular.
+
+**Na pratica**
+
+![image](https://user-images.githubusercontent.com/33209944/146440572-247e3f16-77ab-4b2a-b186-ccf0de7105fc.png)
+
+A Decolar foi multada em 7,5 milhões pela Senacon, por violação ao CDC quanto à exigência de atribuir informação clara sobre os produtos e serviços. 
+A empresa praticava a precificação diferenciada de ofertas com base na geologalização.
+
+**INEQUÍVOCA:**  “o que será alcançado por meio de demonstração do controlador, no sentido de que o titular, de fato, manifestou a autorização para que ocorresse o tratamento de seus dados pessoais.”
+
+.O consentimento exige da parte do titular dos dados uma declaração ou um ato positivo inequívoco, o que significa que tem de ser dado por meio de ação positiva ou declaração. 
+.Tem de ser óbvio que o titular dos dados deu o consentimento para o tratamento em causa.
+.**LGPD:** O consentimento deverá ser fornecido por escrito ou por outro meio que demonstre a manifestação de vontade do titular. 
+.Caso o consentimento seja fornecido por escrito, esse deverá constar de cláusula destacada das demais cláusulas contratuais.
+.A utilização de opções pré-assinaladas de adesão é inválida. 
+.O silêncio ou a inatividade da parte do titular dos dados, bem como a mera utilização de um serviço, não podem ser encarados como manifestação ativa de escolha.
+.Cabe ao controlador o ônus da prova de que o consentimento foi obtido em conformidade com o disposto na Lei. 
+
+**Na pratica**
+
+Quando da instalação de um software, a aplicação solicita aos titular dos dados consentimento para utilizar relatórios de falha não anonimizados para melhorar o programa. Uma declaração de confidencialidade estruturada com as informações necessárias acompanha o pedido de consentimento. 
+
+Ao assinalar ativamente a opção que indica «Concordo», o utilizador pode realizar validamente um «ato positivo inequívoco» dando consentimento para o tratamento.
+
+![image](https://user-images.githubusercontent.com/33209944/146441051-7c971518-b39b-4a27-b913-48f44f17ad86.png)
+
+  O consentimento pode ser **revogado a qualquer momento mediante manifestação expressa do titular**, por procedimento gratuito e facilitado, ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado enquanto não houver requerimento de eliminação.
+
+![image](https://user-images.githubusercontent.com/33209944/146441076-270f11d3-5ee1-4325-b7aa-3005d1340fe4.png)
+
+.O responsável pelo tratamento deve garantir que o consentimento deve ser tão fácil de retirar quanto de dar pelo titular dos dados, a qualquer momento.
+.O requisito relativo à facilidade em retirar o consentimento é um aspeto necessário para um consentimento válido.
+.Se o consentimento for retirado, todas as operações de tratamento de dados baseadas nesse consentimento e que ocorreram antes da retirada do consentimento – e em conformidade com a LGPD – permanecem lícitas.
+.Contudo, o responsável pelo tratamento deve parar as ações de tratamento e apagar os dados tratados com base no consentimento assim que este for retirado, partindo do pressuposto de que não existe outra finalidade que justifique a sua conservação.
+
+**Na pratica**
+
+![image](https://user-images.githubusercontent.com/33209944/146441252-3af7c805-2456-4ac9-a346-9fa8a1c0853a.png)
+
+Um festival de música vende ingressos através de uma bilheteira online. Cada vez que um ingresso é vendido, **solicita-se consentimento** para utilizar os contatos fornecidos para fins de comercialização. Para darem indicação sobre o consentimento para esta finalidade, os clientes podem selecionar a resposta **Não** ou **Sim**. O responsável pelo tratamento informa aos clientes que eles têm a possibilidade de retirar o consentimento. 
+
+Para o fazerem, podem contatar gratuitamente um centro de atendimento nos dias úteis entre as 8h e as 17h. O responsável pelo tratamento neste exemplo não cumpre a **LGPD**. Retirar o consentimento neste caso requer uma chamada telefônica durante as horas de expediente, algo que é mais moroso do que o clique no mouse necessário para dar o consentimento através da bilheteira online, aberta 24 horas por dia, 7 dias por semana.
+
+![image](https://user-images.githubusercontent.com/33209944/146441372-31c73416-f84b-41a0-be8a-2d85a4f2abd6.png)
+
+.Obter o consentimento também não diminui as obrigações do responsável pelo tratamento de observar os princípios.
+.O fato de existir consentimento não legitima a coleta de dados que não seja necessária para a finalidade específica do tratamento.
+
+# 3. Legitimo Ineresse
+
+Quando necessário para atender aos **INTERESSES LEGÍTIMOS** do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais
+
+![image](https://user-images.githubusercontent.com/33209944/146441482-ed7e98f2-1b3a-4828-b9b4-d22d034f4969.png)
+
+O **LEGÍTIMO INTERESSE** do controlador somente poderá fundamentar o tratamento de dados pessoais para finalidades legítimas, consideradas a partir de situações concretas (art. 10)
+
+.**FINALIDADES LEGÍTIMAS**: propósitos legítimos, específicos, explícitos e informados ao titular;
+
+.**SITUAÇÕES CONCRETAS:** “o titular deve ter a efetiva expectativa de que seus dados serão tratados, em decorrência de relação prévia que exista entre ele e o controlador”.
+
+**I- Apoio e promoção a atividades do controlador:**
+
+1. “o controlador que, após observar as preferências de determinados usuários em seu portal, passar a exibir para eles produtos que mais o agradem, com base no tratamento de dados dos demais usuários daquele site”;
+
+2. “o envio de e-mail com descontos específicos para aqueles produtos buscados por determinado titular, ou até mesmo com indicações, tomando por base o histórico de compras do titular.”
+
+**II- Proteção, em relação ao titular, do exercício regular dos seus direitos ou prestação de serviços que o beneficiem, respeitadas as legítimas expectativas dele e os direitos e liberdades fundamentais, nos termos da lei.**
+
+“Podem ser tratados dados de um determinado titular que realiza uma transação bancária, a fim de evitar fraude e garantir a segurança dos valores que o cidadão possui junto à instituição.”
+
+**AVALIAÇÃO DE LEGÍTIMO INTERESSE**
+
+> É uma boa prática. 
+  > O resultado do teste determina se o legítimo interesse pode ser invocado como base legal para o tratamento.
+    > Deve ser feita para cada atividade de tratamento.
+
+TESTE DE FINALIDADE >
+                     TESTE DE NECESSIDADE > 
+                                           TESTE DE PROPORCIONALIDADE > 
+                                                                       SALVAGUARDAS
+                                                                       
+
+![image](https://user-images.githubusercontent.com/33209944/146441972-7f20960f-e40a-4e53-8d28-6a352a54820d.png)
+
+**TESTE DE FINALIDADE:** O agente de tratamento está perseguindo um **INTERESSE LEGÍTIMO?** Ou seja, deve ser lícito, definido de forma clara e representar um interesse real e atual.
+
+**TESTE DE NECESSIDADE** O tratamento é necessário para a finalidade? Existem outros meios menos invasivos para alcançar a finalidade definida para o tratamento e servir o interesse legítimo do responsável pelo tratamento? 
+
+**TESTE DE PROPORCIONALIDADE:** Os interesses do titular prevalecem sobre os interesses da empresa? Há, no titular, uma legítima expectativa de que aqueles dados pessoais sejam tratados para essa finalidade? O tratamento desses dados gerará um impacto negativo no titular? Tem algum viés negativo ou fere os direitos e liberdades fundamentais do titular? 
+
+**SALVAGUARDAS:** Identificar e implementar garantias complementares adequadas decorrentes do dever de cuidado e de diligência, tais como: a minimização dos dados, tecnologias para reforçar a proteção da privacidade, maior transparência e direito de oposição.
+
+**Na pratica**
+
+Uma loja de computadores obtém, provenientes dos seus clientes, as informações dos respetivos contatos no âmbito da venda de um produto e utiliza essas informações de contacto para publicitar os seus próprios produtos análogos por correspondência. A loja vende igualmente produtos através da Internet e envia mensagens de correio eletrônico promocionais quando chega uma nova linha de produtos para venda. 
+
+Os clientes são claramente informados sobre a possibilidade de se oporem ao tratamento dos dados, sem custos e de forma fácil, no momento em que os seus dados são recolhidos, e de cada vez que uma mensagem é enviada, caso o cliente não se tenha oposto inicialmente. 
+
+A transparência do tratamento, o fato de o cliente poder razoavelmente esperar receber ofertas relativas a produtos análogos enquanto cliente da loja e o fato de ter o direito de se opor ajudam a reforçar a legitimidade do tratamento e a garantir a salvaguarda dos direitos das pessoas. 
+
+No outro lado a ponderar, não parece existir qualquer impacto desproporcionado no direito ao respeito pela vida privada da pessoa em causa (neste exemplo, partimos do princípio de que a loja de computadores não criou perfis complexos dos seus clientes, por exemplo, utilizando análises pormenorizadas dos dados relativos à sequência de cliques). 
+
+
+
+
+
+
+
+
+
+
+
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
